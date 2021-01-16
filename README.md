@@ -1,6 +1,6 @@
 
 
-Self Scorer
+# Self Scorer
 
 
 
@@ -36,7 +36,7 @@ Dev Raj R
 
 
 
-Table of Contents
+## Table of Contents
 Table of Contents
 Introduction
 Project Overview
@@ -77,18 +77,18 @@ Attendance
 
 
 
-Introduction
-About this app
+## Introduction
+### About this app
 Self Scorer is a productivity app that promotes the principle of self learning. Here, the student preparing for any school, college or competitive examination can monitor its academic schedule and progress. It works completely offline and is personalized to meet one’s individual needs.
 
-Why do we need this app?
+### Why do we need this app?
 Students preparing for school,  colleges and competitive examinations owing to their hectic schedule fail to manage all their academic stuffs.
 The humongous task of searching for one's timetable,  notes, syllabus and keeping a track of one's attendance and routine becomes confusing as well as disorganized.
 Also while traveling out of station it becomes difficult to carry your academic data everywhere. 
 Additionally,  students also require reminders for upcoming tests, lectures along with pending assignments. 
 
 
-What does it offer?
+### What does it offer?
 One platform to store all your data like 
 syllabus
  institute time table
@@ -98,7 +98,7 @@ Restricted access and privacy for your data through login and sign pages.
 Allows you to set reminders for upcoming tests, holidays, pending assignments, etc.
 user-friendly interface that allows the user to feed the data.
 
-How to use?
+### How to use?
 Login or Sign Up (if you do not have an account)
 On the Home Page you will find options to go to Syllabus, Monthly,Weekly and Daily Schedules, set Reminders, mark your Attendance and view your timetable.
 Set the above mentioned data yourself.
@@ -106,7 +106,7 @@ While studying keep a track of your  syllabus and assignments, and accordingly s
 You’ll  be reminded of your schedule likewise.
 HAPPY LEARNING!!
 
-What is the objective of this app?
+### What is the objective of this app?
 • To increase the productivity of the number of hours put in for study by the student. 
 • Creating a cache to store academic data in an organized manner
 • Reducing the burden of carrying stuffs everywhere. 
@@ -114,7 +114,7 @@ What is the objective of this app?
 
 
 
-What’s coming up?
+### What’s coming up?
 Monitoring the attendance inorder to maintain 75% mark.
 Online downloading of question papers, solutions and books within the app.
 
@@ -134,12 +134,12 @@ Online downloading of question papers, solutions and books within the app.
 
 
 
-Project Overview
+## Project Overview
 Through this project we aim to create an app that will be helpful in organizing the academics of a student.
 
 The Self Scorer project will be carried out by using Flutter along with Android Studio as editor to create the app for the project. The sign in and authorization will be done using Firebase using the dart library packages firebase_core and firebase_auth. The database backend for the project will be implemented using cloud firestore and the dart library package cloud_firestore.
 
-Design Prototype cum Documentation
+## Design Prototype cum Documentation
 Structure of the Application
 The Structure of the application is illustrated through this diagram : 
 
